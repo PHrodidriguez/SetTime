@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+
+h1{
+    text-align: center;
+    margin-top:10%;
+    font-family: 'Poppins' ,sans-serif;
+}
+.manhã{
+    background-image: url(./natureza-anoitecer-nuvem-paisagem-colorida.jpg);
+    background-size: 100%;
+
+}
+.tarde{
+    background-image: url(./nuvem-no-ceu-azul.jpg);
+    background-size: 100%;
+}
+.noite{
+    background-image: url(./silhuetas-de-colinas-e-postes-de-luz-sob-um-ceu-nublado-durante-um-lindo-por-do-sol.jpg);
+    background-size: 100%;
+}
+.madrugada{
+    background-image: url(./ceu-estrelado.jpg);
+    color:#fff
+}
